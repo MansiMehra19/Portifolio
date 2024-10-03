@@ -1,3 +1,4 @@
 # Portifolio
 this is my first repository
-author - Mansi Mehra
+<br>
+Author - Mansi Mehra
